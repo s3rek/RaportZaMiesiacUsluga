@@ -1,0 +1,9 @@
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Release\Microsoft.SqlServer.ConnectionDlg.Core.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Release\Microsoft.SqlServer.Tools.Extensibility.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\obj\Release\WindowsService1.ProjectInstaller.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\obj\Release\WindowsService1.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\obj\Release\WindowsService1.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\obj\Release\WindowsService1.pdb

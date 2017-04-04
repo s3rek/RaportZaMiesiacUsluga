@@ -1,0 +1,836 @@
+﻿Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wystąpił wyjątek w obsłudze zdarzeń OnAfterInstall elementu WindowsService1.ProjectInstaller.
+System.InvalidOperationException: Nie można uruchomić usługi SimpleService na komputerze '.'.
+Zgłoszono wyjątek wewnętrzny System.ComponentModel.Win32Exception z następującym komunikatem o błędzie: Odmowa dostępu.
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi SimpleService.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Usługa SimpleService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi SimpleService...
+Trwa tworzenie źródła EventLog SimpleService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła SimpleService.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog SimpleService.
+Ostrzeżenie: źródło SimpleService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi SimpleService z systemu...
+Usługa SimpleService została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi Przypomnienie...
+Usługa Przypomnienie została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Przypomnienie w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog Przypomnienie.
+Trwa usuwanie usługi Przypomnienie z systemu...
+Usługa Przypomnienie została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi Baza Przypomnienie...
+Usługa Baza Przypomnienie została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Baza Przypomnienie w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog Baza Przypomnienie.
+Trwa usuwanie usługi Baza Przypomnienie z systemu...
+Usługa Baza Przypomnienie została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi Baza Przypomnienie...
+Trwa tworzenie źródła EventLog Baza Przypomnienie w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Baza Przypomnienie.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog Baza Przypomnienie.
+Ostrzeżenie: źródło Baza Przypomnienie nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi Baza Przypomnienie z systemu...
+Usługa Baza Przypomnienie została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Trwa instalowanie usługi Baza Przypomnienie...
+Usługa Baza Przypomnienie została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Baza Przypomnienie w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Usuwanie źródła EventLog Baza Przypomnienie.
+Trwa usuwanie usługi Baza Przypomnienie z systemu...
+Usługa Baza Przypomnienie została pomyślnie usunięta z systemu.
