@@ -1,0 +1,120 @@
+﻿Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+   logtoconsole = 
+Trwa instalowanie usługi Baza Przypomnienie...
+Usługa Baza Przypomnienie została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Baza Przypomnienie w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+Usuwanie źródła EventLog Baza Przypomnienie.
+Trwa usuwanie usługi Baza Przypomnienie z systemu...
+Usługa Baza Przypomnienie została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+   logtoconsole = 
+Trwa instalowanie usługi Baza Przypomnienie...
+Trwa tworzenie źródła EventLog Baza Przypomnienie w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Baza Przypomnienie.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+Usuwanie źródła EventLog Baza Przypomnienie.
+Ostrzeżenie: źródło Baza Przypomnienie nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi Baza Przypomnienie z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+Usuwanie źródła EventLog Baza Przypomnienie.
+Ostrzeżenie: źródło Baza Przypomnienie nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi Baza Przypomnienie z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+   logtoconsole = 
+Trwa instalowanie usługi Baza Przypomnienie...
+Trwa tworzenie źródła EventLog Baza Przypomnienie w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Baza Przypomnienie.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+Usuwanie źródła EventLog Baza Przypomnienie.
+Ostrzeżenie: źródło Baza Przypomnienie nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi Baza Przypomnienie z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+Usuwanie źródła EventLog Baza Przypomnienie.
+Ostrzeżenie: źródło Baza Przypomnienie nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi Baza Przypomnienie z systemu...
+Podczas dezinstalacji instalatora System.ServiceProcess.ServiceInstaller wystąpił wyjątek.
+System.ComponentModel.Win32Exception: Określona usługa nie istnieje jako usługa zainstalowana
+Podczas odinstalowywania wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a dezinstalacja będzie kontynuowana. Jednak po ukończeniu dezinstalacji aplikacja może nie być w pełni odinstalowana.
+Instalowanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+   logtoconsole = 
+Trwa instalowanie usługi Baza Przypomnienie...
+Usługa Baza Przypomnienie została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Baza Przypomnienie w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.InstallLog
+   assemblypath = C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe
+Usuwanie źródła EventLog Baza Przypomnienie.
+Trwa usuwanie usługi Baza Przypomnienie z systemu...
+Usługa Baza Przypomnienie została pomyślnie usunięta z systemu.

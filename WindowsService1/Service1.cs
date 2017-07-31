@@ -244,25 +244,25 @@ namespace WindowsService1
                                 if (m_rob > m_godz)
                                 {
                                     double wydruk = Math.Round((m_rob - m_godz)*2)/ 2;
-                                    tekst = "w poprzednim miesiącu  przepracowałeś/aś " + m_rob + " godzin w tym masz nadgodziny w liczbie " + wydruk + " godzin";
+                                    tekst = "w poprzednim miesiącu  przepracowałeś/aś " + Math.Round(m_rob * 2) / 2 + " godzin w tym masz nadgodziny w liczbie " + wydruk + " godzin";
                                 }
                                 if (m_rob < m_godz)
                                 {
                                     double wydruk = Math.Round((m_godz - m_rob)*2)/ 2;
-                                    tekst = "w poprzednim miesiącu przepracowałeś/aś "+ m_rob +" godzin, ale masz za mało przepracowanych godzin o " + wydruk + " godziny";
+                                    tekst = "w poprzednim miesiącu przepracowałeś/aś "+ Math.Round(m_rob * 2) / 2 + " godzin, ale masz za mało przepracowanych godzin o " + wydruk + " godziny";
                                 }
                                 if (m_rob == m_godz)
                                 {
-                                    tekst = "w poprzednim miesiącu masz przepracowane równe " + m_rob + " godziny";
+                                    tekst = "w poprzednim miesiącu masz przepracowane równe " + Math.Round(m_rob * 2) / 2 + " godziny";
                                 }
                             }
                         }
                         messageBody = messageBody + htmlTableEnd + tekst;
 
 
-                        //string email = row["Email"].ToString();
-                        string email = "s3rek92@gmail.com";
-                        //if (email == row["Email"].ToString())
+                        string email = row["Email"].ToString();
+                        //string email = "s3rek92@gmail.com";
+                        if (email == row["Email"].ToString())
                         {
                             WriteToFile("Próba wysłania maila z raportem do: " + row["Email"]);
 
